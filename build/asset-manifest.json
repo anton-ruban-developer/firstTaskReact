@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.677dc1c7.css",
+    "main.js": "/static/js/main.7e829bca.js",
+    "static/media/Derzhprom_building.jpg": "/static/media/Derzhprom_building.d92c86bc9dc1013f554f.jpg",
+    "static/media/Kharkiv_University.jpg": "/static/media/Kharkiv_University.aefc04f60dcf4146540f.jpg",
+    "static/media/ugly_duckling.jpg": "/static/media/ugly_duckling.0a65d4c5f1d296a79607.jpg",
+    "static/media/The_snow_queen.jpg": "/static/media/The_snow_queen.8dca49c16f2dad99ed1d.jpg",
+    "static/media/Успенський_собор.jpg": "/static/media/Успенський_собор.1c503c411a29c43237fb.jpg",
+    "static/media/thumbelina.jpg": "/static/media/thumbelina.7ff2617bfcb3455977da.jpg",
+    "index.html": "/index.html",
+    "main.677dc1c7.css.map": "/static/css/main.677dc1c7.css.map",
+    "main.7e829bca.js.map": "/static/js/main.7e829bca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.677dc1c7.css",
+    "static/js/main.7e829bca.js"
+  ]
+}
