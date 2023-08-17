@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/firstTaskReact/static/css/main.67428977.css",
+    "main.js": "/firstTaskReact/static/js/main.047c9a4a.js",
+    "static/media/Derzhprom_building.jpg": "/firstTaskReact/static/media/Derzhprom_building.d92c86bc9dc1013f554f.jpg",
+    "static/media/Kharkiv_University.jpg": "/firstTaskReact/static/media/Kharkiv_University.aefc04f60dcf4146540f.jpg",
+    "static/media/ugly_duckling.jpg": "/firstTaskReact/static/media/ugly_duckling.0a65d4c5f1d296a79607.jpg",
+    "static/media/The_snow_queen.jpg": "/firstTaskReact/static/media/The_snow_queen.8dca49c16f2dad99ed1d.jpg",
+    "static/media/Успенський_собор.jpg": "/firstTaskReact/static/media/Успенський_собор.1c503c411a29c43237fb.jpg",
+    "static/media/thumbelina.jpg": "/firstTaskReact/static/media/thumbelina.7ff2617bfcb3455977da.jpg",
+    "index.html": "/firstTaskReact/index.html",
+    "main.67428977.css.map": "/firstTaskReact/static/css/main.67428977.css.map",
+    "main.047c9a4a.js.map": "/firstTaskReact/static/js/main.047c9a4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67428977.css",
+    "static/js/main.047c9a4a.js"
+  ]
+}
